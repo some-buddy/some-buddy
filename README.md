@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I’m Diane
 
-<!--
-**some-buddy/some-buddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a DevOps and Platform Engineer with a background in full-stack JavaScript development.
 
-Here are some ideas to get you started:
+My work focuses on making application delivery easier to repeat, understand and maintain:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Reusable application foundations and CI/CD workflows that help teams start from a shared baseline.
+- Runtime configuration that separates environment-specific settings from application builds.
+- Developer tooling and delivery checks that make quality requirements explicit.
+
+I care about documenting architectural choices, trade-offs and operational limits.
+
+I’m interested in freelance DevOps and Platform Engineering opportunities, and open to relevant permanent roles.
