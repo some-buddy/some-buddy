@@ -1,13 +1,29 @@
-# Hi, I’m Diane
+# Diane — DevOps & Platform Engineer
 
-I’m a DevOps and Platform Engineer with a background in full-stack JavaScript development.
+I started in full-stack JavaScript development. Today, I work on the foundations and delivery workflows that help development teams build, ship and maintain their applications.
 
-My work focuses on making application delivery easier to repeat, understand and maintain:
+I like making things easier to understand and repeat: a shared starting point for new projects, a pipeline teams can follow, configuration that stays separate from the build, and documentation that explains the choices behind it.
 
-- Reusable application foundations and CI/CD workflows that help teams start from a shared baseline.
-- Runtime configuration that separates environment-specific settings from application builds.
-- Developer tooling and delivery checks that make quality requirements explicit.
+My approach is hands-on: build the tooling, make the checks explicit, and share the knowledge needed to maintain it.
 
-I care about documenting architectural choices, trade-offs and operational limits.
+## What I’ve worked on
+
+**A shared starting point for application teams**  
+Reusable TypeScript / Node.js project foundations, shared delivery components, and tooling to check existing projects against common standards. The aim: help teams follow a clear path while keeping their applications maintainable.
+
+**Build once, configure at runtime**  
+Separating frontend builds from environment-specific public configuration, so the same application artifact can move between environments. Browser configuration stays public; secrets belong elsewhere.
+
+**Delivery checks that explain what needs attention**  
+Reusable GitLab CI components and configurable audit tooling for code, configuration and delivery workflows. Checks cover quality and security, with reports and rule explanations to help developers understand what to fix.
+
+## How I work
+
+- Start with the application and the team’s constraints.
+- Automate recurring tasks and make failures understandable.
+- Document decisions, trade-offs and operational limits.
+- Share the knowledge needed to maintain the tooling.
+
+## Let’s work together
 
 I’m interested in freelance DevOps and Platform Engineering opportunities, and open to relevant permanent roles.
