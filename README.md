@@ -1,29 +1,31 @@
-# Diane — DevOps & Platform Engineer
+# Diane — DevOps Architect
 
-I started in full-stack JavaScript development. Today, I work on the foundations and delivery workflows that help development teams build, ship and maintain their applications.
+With a background in full-stack JavaScript development, I design and implement cloud platforms, engineering standards and delivery workflows. I take architecture decisions through to working solutions and help teams adopt and maintain them.
 
-I like making things easier to understand and repeat: a shared starting point for new projects, a pipeline teams can follow, configuration that stays separate from the build, and documentation that explains the choices behind it.
+## What I bring
 
-My approach is hands-on: build the tooling, make the checks explicit, and share the knowledge needed to maintain it.
+**Architecture that reaches implementation**  
+Cloud foundations, Kubernetes platforms and shared delivery workflows, supported by architecture decision records (ADRs), prototypes and documentation that explain the choices and trade-offs.
 
-## What I’ve worked on
+**A golden path for application teams**  
+Reusable TypeScript/Node.js project foundations, versioned CI/CD components and a shared Helm chart. I designed, developed and tested configurable audit tooling for code, configuration and delivery standards, with explanations, optional fixes and blocking checks for mandatory rules.
 
-**A shared starting point for application teams**  
-Reusable TypeScript / Node.js project foundations, shared delivery components, and tooling to check existing projects against common standards. The aim: help teams follow a clear path while keeping their applications maintainable.
+**Safer applications and repeatable delivery**  
+Refactored and secured five internal applications in five months. Built delivery components in the first week and an audit-tool prototype in the second. Combined automation with practical support for the people building and operating the applications.
 
 **Build once, configure at runtime**  
-Separating frontend builds from environment-specific public configuration, so the same application artifact can move between environments. Browser configuration stays public; secrets belong elsewhere.
+Created a frontend template adopted as the starting point for future projects. The same build supports different brands and languages through public runtime configuration; infrastructure and application delivery follow separate workflows.
 
-**Delivery checks that explain what needs attention**  
-Reusable GitLab CI components and configurable audit tooling for code, configuration and delivery workflows. Checks cover quality and security, with reports and rule explanations to help developers understand what to fix.
+**Cloud operations teams can own**  
+Delivered production and staging infrastructure across two cloud regions within my first two weeks, onboarding included. Automated customer provisioning and access management, deployed centralised observability, and documented operational procedures.
 
 ## How I work
 
-- Start with the application and the team’s constraints.
-- Automate recurring tasks and make failures understandable.
-- Document decisions, trade-offs and operational limits.
-- Share the knowledge needed to maintain the tooling.
+- Start with the application, the people and their constraints.
+- Make architecture decisions explicit and implement the agreed standards.
+- Automate recurring work, with checks and recovery paths teams can understand.
+- Explain the system and share the knowledge needed to operate it.
 
-## Let’s work together
+## Opportunities
 
-I’m interested in freelance DevOps and Platform Engineering opportunities, and open to relevant permanent roles.
+Open to permanent and freelance DevOps Architecture and Platform Engineering roles.
